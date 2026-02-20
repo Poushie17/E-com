@@ -51,7 +51,7 @@ const Testimonials = () => {
                   <div>
                     <h5 className="text-xl font-bold">{item.name}</h5>
                     <p className="text-zinc-600">{item.profession}</p>
-                    <span className="flex text-yellow-400 mt-3 text-xl gap-1">
+                    <span className="flex text-yellow-400 mt-3 text-xl gap-1" >
                         {Array.from({length: item.rating}, (_, index)=>(
                             <FaStar />
                         ))}
