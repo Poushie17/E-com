@@ -8,7 +8,7 @@ import Values from '../component/Values'
 import Products from '../component/Products'
 import Discount from '../component/Discount'
 import Process from '../component/Process'
-import Testimonials from '../component/Testimonials.Jsx'
+import Testimonials from '../component/Testimonials.jsx'
 import Footer from '../component/Footer'
 
 
